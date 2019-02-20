@@ -9,14 +9,10 @@ var output=musicians[i]+ ' plays '+instruments[i];
 }
   
 return x;
-
-  
-  
 }    
   function johnLennonFacts(facts){
   const result=[];
   var i=0;
- 
  
     while(i<facts.length){
    result.push(facts[i]+"!!!");
@@ -24,4 +20,13 @@ return x;
     }  return result;
   }
   
-  function iLoveTheBeatles(numb)
+  function iLoveTheBeatles(numb){
+    
+    var array=[];
+    
+    
+    
+    
+    
+    
+  }
