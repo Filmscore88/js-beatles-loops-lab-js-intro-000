@@ -18,14 +18,10 @@ return x;
   var i=0;
  
  
-  while(i<facts.length){
+    while(i<facts.length){
    result.push(facts[i]+"!!!");
    i++;
-    
+    }  return result;
+  }
   
-    
-  }  return result;
-  
-  
-}
-  
+  function iLoveTheBeatles(numb)
