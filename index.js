@@ -12,4 +12,11 @@ return x;
 
   
   
-}    function johnLennonFacts
+}    
+  function johnLennonFacts(){
+  const facts=[];
+  
+  
+  
+}
+  c
