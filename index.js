@@ -13,18 +13,18 @@ return x;
   
   
 }    
-  function johnLennonFacts(){
-  const facts=[];
+  function johnLennonFacts(facts){
+  const result=[];
   var i=0;
  
  
   while(i<facts.length){
-   facts.push(facts[i]+" !!!");
+   result.push(facts[i]+" !!!");
    i++;
     
   
     
-  }  return facts;
+  }  return result;
   
   
 }
