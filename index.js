@@ -19,7 +19,7 @@ return x;
  
  
   while(i<facts.length){
-    
+   facts.push(facts[i]+" !!!") 
     
   
     
