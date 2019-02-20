@@ -19,11 +19,12 @@ return x;
  
  
   while(i<facts.length){
-   facts.push(facts[i]+" !!!") 
+   facts.push(facts[i]+" !!!");
+   i++;
     
   
     
-  }
+  }  return fa
   
   
 }
