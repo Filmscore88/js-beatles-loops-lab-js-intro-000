@@ -29,9 +29,10 @@ return x;
        numb++;
        
        
-    } While(numb<15)
+    } while(numb<15);
+     
+      return array;
     
-    
-    
+  }
     
   
